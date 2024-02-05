@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first git repository.
 <br>
-Author - Barun Agarwal
+Author - Barun Agarwal(SSU)
